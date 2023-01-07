@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\DLight\Desktop\Paralel\Lab_4_method_2\src\arrman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\DLight\Desktop\Paralel\LAB4\lab4.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DLight\Desktop\Paralel\LAB4\lab4.gpr</vfs_project>
+      <vfs_file>C:\Users\DLight\Desktop\Paralel\LAB4\src\arrman.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
